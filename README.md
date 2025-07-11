@@ -1,6 +1,60 @@
-# 💫 About Me:
-I'm Arun, a B.Tech CSE student at Lovely Professional University, currently in the year 2nd.<br><br>I'm passionate about building things with code and constantly learning new technologies. I'm proficient in:<br><br>Front-End Development: HTML, CSS, JavaScript<br>Back-End Development: C, C++,Python<br>Data Structures & Algorithms<br>I've been putting my skills to the test by working on projects related to web development and app development<br><br>This GitHub profile serves as a showcase for my work and a platform for collaboration.<br><br>What would you like to explore?<br><br>Check out my repositories: Browse through my projects and see what I've been building!<br>Learn more about a specific project: Let me know which project interests you and I'll be happy to share details!<br>Connect with me! I'm always open to collaborating on interesting projects or just discussing tech!
+# 👋 Hi there, I'm Arun Sharma!
 
+🎓 **B.Tech CSE Student | Full-Stack Developer | Problem Solver**  
+📍 Lovely Professional University | India  
+
+---
+
+## 🚀 About Me
+
+I'm a passionate and adaptable Computer Science undergraduate focused on building user-centric and scalable web solutions. With a strong foundation in **DSA, frontend & backend development**, I enjoy turning ideas into real-world applications that deliver value.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C++, JavaScript, Python, SQL, PHP  
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React  
+- **Backend/Database:** MySQL, PHP  
+- **Tools:** GitHub, Postman, Linux  
+
+---
+
+## 📂 Notable Projects
+
+### 🔹 [AI Debt Planner](https://github.com/Arun0041/AI-DEBT-PLANNER)
+An AI-powered tool that assists users in planning debt repayment.
+- Built with JavaScript and Gemini API
+- Improved accessibility by 25% with responsive design
+- Enabled 500+ user interactions with persistent local cache
+
+### 🔹 [Ayush Herb Platform](https://github.com/Arun0041/AYUSH-HERB)
+A herbal remedy platform with community features and admin panel.
+- Developed with HTML, Tailwind CSS, JavaScript, PHP, and SQL
+- 99% uptime and improved user engagement by 25%
+
+### 🔹 [Job Portal](https://github.com/Arun0041/JOB-Portal-Project-/)
+A responsive job listing platform with scalable architecture.
+- Optimized front-end code for 15% faster loading
+- Supports 100+ job listings with clean UI/UX
+
+---
+
+## 📜 Certifications
+
+- ✅ **Full Stack Development** – PhysicsWallah  
+- ✅ **Data Structures & Algorithms** – IamNeo  
+- ✅ **Cloud Computing** – NPTEL  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arun004/)  
+- 📧 sharmarun004@gmail.com  
+- 🌐 [GitHub Portfolio](https://github.com/Arun0041/)  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arungautam15/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arungautam158/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun004/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arun-5184) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23025408) 
