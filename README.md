@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arun+Sharma;Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arun+Sharma;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🎓 B.Tech CSE Student | 🚀 Full-Stack Developer | 🧠 Problem Solver</h3>
+  <h3>🎓 B.Tech CSE Student | 💻 Software Engineer | 🧠 Problem Solver</h3>
   
   <a href="https://designschool.in">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-DesignSchool.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -28,21 +28,21 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Computer Science Engineer** based in India, specializing in the **MERN Stack** and **Data Structures**. I love bridging the gap between complex backend logic and interactive frontend designs. 
+I am a passionate **Computer Science Engineer** based in India, with a strong foundation in **Software Engineering principles** and **Data Structures**. I enjoy solving complex algorithmic problems and translating logic into efficient, scalable web applications.
 
-Currently, I am focused on building **secure e-commerce platforms** with payment integrations and **visualizing algorithms** to make complex concepts accessible.
+Currently, I am focused on applying **MERN Stack** technologies to build secure, production-ready platforms while continuously refining my problem-solving skills in competitive programming.
 
-* 🔭 I’m currently working on **Advanced MERN Applications**
-* 🌱 I’m currently learning **Next.js and System Design**
+* 🔭 I’m currently building **Advanced Web Applications**
+* 💻 I’m focused on **Scalability and System Performance**
 * ⚡ Fun fact: I can center a `div` on the first try!
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-| **Frontend** | **Backend & Database** | **Tools & Platforms** |
+| **Languages & Frontend** | **Backend & Database** | **Tools & Platforms** |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
@@ -111,7 +111,7 @@ Currently, I am focused on building **secure e-commerce platforms** with payment
 
 <div align="center">
   <h3>Let's Connect! 🤝</h3>
-  <p>Open to Full Stack Developer roles and Freelance projects.</p>
+  <p>Open to Software Engineering roles and Freelance projects.</p>
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/arungautam15/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arungautam004/)
