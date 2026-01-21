@@ -5,8 +5,8 @@
 <div align="center">
   <h3>🎓 B.Tech CSE Student | 🚀 Full-Stack Developer | 🧠 Problem Solver</h3>
   
-  <a href="https://arun.42web.io/?i=1">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-designschool.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://designschool.in">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-DesignSchool.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
@@ -90,7 +90,7 @@ Currently, I am focused on building **secure e-commerce platforms** with payment
 - **Feature:** Enables 500+ interactions with persistent local caching and 25% better accessibility.
 <p align="left">
   <a href="https://arun.42web.io/?i=1">
-    <img src="https://img.shields.io/badge/🌐_View_Portfolio-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-AI_Debt_Planner-orange?style=for-the-badge" />
   </a>
 </p>
 
