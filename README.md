@@ -1,77 +1,119 @@
-# 👋 Hi there, I'm Arun Sharma!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arun+Sharma;Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+</div>
 
-🎓 **B.Tech CSE Student | Full-Stack Developer | Problem Solver**  
-📍 Lovely Professional University | India  
+<div align="center">
+  <h3>🎓 B.Tech CSE Student | 🚀 Full-Stack Developer | 🧠 Problem Solver</h3>
+  
+  <a href="https://arun.42web.io/?i=1">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-designschool.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
-
-I'm a passionate and adaptable Computer Science undergraduate focused on building user-centric and scalable web solutions. With a strong foundation in **DSA, frontend & backend development**, I enjoy turning ideas into real-world applications that deliver value.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** C++, JavaScript, Python, SQL, PHP  
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React  
-- **Backend/Database:** MySQL, PHP  
-- **Tools:** GitHub, Postman, Linux  
-
----
-
-## 📂 Notable Projects
-
-### 🔹 [AI Debt Planner](https://github.com/Arun0041/AI-DEBT-PLANNER)
-An AI-powered tool that assists users in planning debt repayment.
-- Built with JavaScript and Gemini API
-- Improved accessibility by 25% with responsive design
-- Enabled 500+ user interactions with persistent local cache
-
-### 🔹 [Ayush Herb Platform](https://github.com/Arun0041/AYUSH-HERB)
-A herbal remedy platform with community features and admin panel.
-- Developed with HTML, Tailwind CSS, JavaScript, PHP, and SQL
-- 99% uptime and improved user engagement by 25%
-
-### 🔹 [Job Portal](https://github.com/Arun0041/JOB-Portal-Project-/)
-A responsive job listing platform with scalable architecture.
-- Optimized front-end code for 15% faster loading
-- Supports 100+ job listings with clean UI/UX
+<div align="center">
+  <a href="https://linkedin.com/in/arun004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:arungautam0041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Arun0041" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ---
 
-## 📜 Certifications
+## 👨‍💻 About Me
 
-- ✅ **Full Stack Development** – PhysicsWallah  
-- ✅ **Data Structures & Algorithms** – IamNeo  
-- ✅ **Cloud Computing** – NPTEL  
+I am a passionate **Computer Science Engineer** based in India, specializing in the **MERN Stack** and **Data Structures**. I love bridging the gap between complex backend logic and interactive frontend designs. 
 
----
+Currently, I am focused on building **secure e-commerce platforms** with payment integrations and **visualizing algorithms** to make complex concepts accessible.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arungautam15/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arungautam158/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun004/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arun-5184) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23025408) 
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+* 🔭 I’m currently working on **Advanced MERN Applications**
+* 🌱 I’m currently learning **Next.js and System Design**
+* ⚡ Fun fact: I can center a `div` on the first try!
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arun0041&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arun0041&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun0041&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack & Tools
+
+| **Frontend** | **Backend & Database** | **Tools & Platforms** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📂 Featured Projects
+
+### 🏆 [VizNest – Premium Home Decor Store](https://github.com/Arun0041/VizNest)
+**`MERN Stack` `Razorpay` `JWT` `Context API`**
+> A scalable e-commerce platform featuring a **real-time customization engine** and secure payments.
+- **Tech:** MongoDB, Express, React, Node.js, Razorpay.
+- **Key Feature:** Integrated **JWT-based Auth** (Google OAuth) & Brevo OTP, reducing fake registrations by **40%**.
+- **Performance:** Optimized MongoDB pipelines to reduce data retrieval latency by **30%**.
+<p align="left">
+  <a href="https://viznest.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-VizNest-success?style=for-the-badge" />
+  </a>
+</p>
+
+### 🧩 [Sudoku Solver Visualizer](https://github.com/Arun0041/Sudoku-Solver)
+**`React.js` `Algorithms` `Backtracking`**
+> An interactive tool that visualizes the **Backtracking Algorithm** in real-time with speed controls.
+- **Tech:** React, Tailwind CSS, Recursion.
+- **Optimization:** Implemented constraint propagation, reducing solution computation time by **35%**.
+- **UX:** Dynamic glassmorphism grid with robust input validation to prevent errors.
+<p align="left">
+  <a href="https://sudoku-solver-theta-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Sudoku_Solver-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
+### 🌿 [Ayush Herb Platform](https://github.com/Arun0041/AYUSH-HERB)
+**`PHP` `SQL` `CMS`**
+> A centralized herb information portal with community forums and an admin dashboard.
+- **Tech:** PHP, SQL, Tailwind CSS.
+- **Impact:** Engineered a custom Admin Panel for efficient CRUD operations, reducing management time by **20%**.
+<p align="left">
+  <a href="https://ayushherb.infinityfreeapp.com/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Ayush_Herb-green?style=for-the-badge" />
+  </a>
+</p>
+
+### 💰 [AI Debt Planner](https://github.com/Arun0041/AI-DEBT-PLANNER)
+**`JavaScript` `Gemini API` `Finance`**
+> An AI-powered financial assistant helping users plan debt repayment strategies.
+- **Tech:** Gemini API, LocalStorage, JS.
+- **Feature:** Enables 500+ interactions with persistent local caching and 25% better accessibility.
+<p align="left">
+  <a href="https://arun.42web.io/?i=1">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-orange?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arun0041&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun0041&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun0041&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun0041&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arun0041&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <h3>Let's Connect! 🤝</h3>
+  <p>Open to Full Stack Developer roles and Freelance projects.</p>
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/arungautam15/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arungautam004/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arun004/)
+</div>
